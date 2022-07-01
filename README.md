@@ -1,2 +1,2 @@
-# coursera1
+# coursera
 From Course
